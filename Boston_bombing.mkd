@@ -35,6 +35,21 @@ sources:
 - http://git-scm.com/book/fr/Git-sur-le-serveur-Git-h%C3%A9berg%C3%A9  
 - http://bloginfo.rakotonirina.net/git-commencer-a-utiliser-git/
 
+Récupération sur XPS
+
+1. Créer un dossier Boston dans Doocuments
+
+2. en mode console se déplacer dans le dossier et créer un dosier git:
+
+cd Documents/Boston
+git init
+git add .
+git remote add origin https://github.com/jcrb/Boston
+git pull origin master
+
+le transfert est fait et le dossier Boston et copié sur XPS.
+
+
 Topo
 ====
 
@@ -56,8 +71,9 @@ Situation initiale [1]
 - [Marathon de Boston](http://fr.wikipedia.org/wiki/Marathon_de_Boston)
 - [Boston](http://fr.wikipedia.org/wiki/Boston): 650.000 habitants (2010), Boston Metro (4M5)
 - 5 TCL1 adultes et 3 pédiatriques
-- 3 morts et 270 blessés
+- 3 morts et 270 blessés (ramenés à 264)dont 20 UA (7.5%).[16]
 - T+90 mn la totalité des victimes sont évacuées
+- Tous les blessé ont été évacués en 45 mn [16]
 
 Brigham and Womens's Hospital[1]
 
@@ -89,7 +105,7 @@ Préparation
 
 En plus de cette préparation, un certain nombre de coincidences ont jouées un rôle favorable:
 
-- les explosions se sont produites dans une zone où la concentration d'équipes médicales était la plus importante et très bien équipées. Ce marathon génère en moyenne plus de 1000 patients allant des ampules à l'ACR en passant par des deshydratation massives, coup de chaleur, etc.
+- les explosions se sont produites dans une zone où la concentration d'équipes médicales était la plus importante et très bien équipées. Ce marathon génère en moyenne plus de 1000 patients allant des ampules à l'ACR en passant par des deshydratation massives, coup de chaleur, etc.en 6 heures [16]
 - un parc d'ambulance important était présent
 - les SU du secteur augmentent le personnel présent en prévision d'un afflus de patients
 - en pratique la première étape d'un plan d'urgence (moyens humains et matériels + zone de tri étainent en place.
