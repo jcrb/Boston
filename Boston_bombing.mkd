@@ -29,3 +29,132 @@ Je veux créer un dossier Boston qui npuisse être partagé sur github:
 	- git add Boston_bombing.mkd
 	- git commit -m 'first'
 	- git push origin master
+
+sources:
+
+- http://git-scm.com/book/fr/Git-sur-le-serveur-Git-h%C3%A9berg%C3%A9  
+- http://bloginfo.rakotonirina.net/git-commencer-a-utiliser-git/
+
+Topo
+====
+
+Hôpitaux impliqués
+------------------
+
+- Brigham and Womens's Hospital[1]  
+- Massachusetts General Hospital [3] and Harvard Medical School
+- Beth Israel Deaconess Medical Center [6]
+
+Situation initiale [1]
+-------------------
+
+- lundi 15 avril 2013, Patriot day (Mémoire des victimes du 11 septembre 2001)
+- 2 explosions , la première à 14H48 (T0)
+- Bolyston Street à proximité de la ligne d'arrivée du 117 ème marathon de Boston
+- Créé en 1897 avec 18 participants (le plus vieux du monde), il attire en moyenne 20.000 participants et 500.000 spectateur. Pour y participer il faut justifier d'un temps inférieur à 3 heures lors d'une autre épreuve.
+- Marathon Monday (3ème lundi d'avril)
+- [Marathon de Boston](http://fr.wikipedia.org/wiki/Marathon_de_Boston)
+- [Boston](http://fr.wikipedia.org/wiki/Boston): 650.000 habitants (2010), Boston Metro (4M5)
+- 5 TCL1 adultes et 3 pédiatriques
+- 3 morts et 270 blessés
+- T+90 mn la totalité des victimes sont évacuées
+
+Brigham and Womens's Hospital[1]
+
+- 39 blessés dont 23 à T+60 (1 victime toute les 3 minutes)
+	- 15 hospitalisés
+	- 9 opérés
+- blessés graves
+	- lésions pénétrantes de la tête et du cou
+	- lésions de blast hémorragiques
+- les 3 patients décédés ont été tués sur le coup et aucun des blessés ne décèdera. Ce résultat étonnant au regard de la sévérité des lésions s'explique par:
+- une intervention immédiate des secours sur place constitués massivement par du personnel hospitalier notemment des urgences (bénévoles)
+- l'application de méthodes rapides de triage
+- évacuation très rapide vers les 5 Trauma center du secteur (3 adultes, 2 pédiatriques)
+- l'organisation des hôpitaux
+- la préparation des équipes soignantes
+
+Préparation
+
+- elle a commencé dans les mois qui ont suivis le 11/9
+- formation d'un groupe de travail constitué par la ville de Boston, les EMS et 14 établissements hospitaliers. Premier exercice simulant l'explosion d'une bombe sale dans un avion est organisé dès novembre 2002 (Opération Prometheus)
+- l'établissement reçoit 72 blessés dont 12 nécesitent une décontamination
+- de 2006 à 2012 cet établissement a oganisé ou participé à 
+	- 73 exercices, évènements ou activation du plan catastrophe (opération falcon simulant un attentat à la bombe)
+	- 623 test de procédure durgence interne (communications, rappel de personnel, pannes de fluides ou d'énergie
+	- organisé des retours d'expérience sur 
+		- la fusillade d'Aurora (12 morts, 53 blessés dont 23 UA par balles arrivés en moins d'une heure dans le seul hopital de la ville.
+		- cela débouché sur ue action de formation prioritaire sur l'organisation et la gestion d'une cellule de crise hospitalière et la formation des responsables (senior leader).
+		- formation commune des urgences, blocs de traumato, réanimation pou améliorer la communication et la coordination de ces équipes (unité de simulation).
+
+En plus de cette préparation, un certain nombre de coincidences ont jouées un rôle favorable:
+
+- les explosions se sont produites dans une zone où la concentration d'équipes médicales était la plus importante et très bien équipées. Ce marathon génère en moyenne plus de 1000 patients allant des ampules à l'ACR en passant par des deshydratation massives, coup de chaleur, etc.
+- un parc d'ambulance important était présent
+- les SU du secteur augmentent le personnel présent en prévision d'un afflus de patients
+- en pratique la première étape d'un plan d'urgence (moyens humains et matériels + zone de tri étainent en place.
+- la zone est proche des TC du secteur (carte)
+- L'heure de l'explosion correspond à celle des relèves hospitalières. Le double du personnel normal était présent
+- le PAtriot day est habituellement férié et les programmes opératoires allégés ce jour là mais les chirurgiens de traumato étaient presque tous présents. En quelques mnutes ils ont pu ouvrir 7 salles d'opération.
+
+MGH [3]
+===
+
+- 10 UA dont 1 ACR en DEM sur désamorçage (évolution SP)
+- besoins sanguins: 6 poches de sang, 4 PFC, 5 CP en moyenne par patient
+- 50% ont été amputés d'au moins 1 membre
+- totalisent 62 lésions distinctes dont 29% de brulûres.
+- durée médiane hospitalisation 15.5 (8 - 18) dont réa 3 (0 - 8)
+
+MGH [5]
+=======
+
+- 907 lits, 61 OR, 150 patients/j (36.000 patients/an)
+- OR réparties sur 3 niveaux dans 5 batiments, 486 paramédicaux
+- les communications se font par tel.cellulaires institutionnels ou personnels
+- 51 OR en foctionnement depuis 8H du matin et 40 au moment de l'attentat
+- vers 15 heures le personnel est alerté par les média sociaux
+- T + 10: EMS confirme attentat
+- T + 13: l'ENS (Emergency notification system) est activé. Les OR Leader demandent au personnel relevé de ne pas quitter leur poste et commencent un recensement des moyens. Pas d'informations sur le nombre des impliqués et la nature des lésions.
+Le recensement précise:
+	- anesthésistes, chir, Ibode disponible
+	- OR immédiatement dispo (26)
+	- OR interventions en cours (32)
+- T + 14: premier blessé arrive au MGH
+- T + 15: la police de Boston active pe plan attentat dont la conséquence immédiate l'interruption de toutes les communications téléphoniques par portables.
+- T + 20: au vu des moyens disponibles, le programme opératoire n'est pas suspendu. Le service des urgences fait état d'amputations traumatiques et de blessures par criblage (shrapnel).
+- T + 30: arrivée de la première UA au bloc. 180 personnels sont disponiles contre 80 normalement.
+- T + 50: 6 UA sont arivés au bloc. Un 7ème est en attente.
+- Le personnel chargé de la gestion du matériel et la stérilisation centrale jouent un rôle clé dans la disponibilité du matériel d'ortho-traumato.
+- le personnel présent a été fortement mis à contribution pour récupérer les produits sanguins, identifier les patients, chercher du matéiel.
+- 16:30 dernier patient admis au bloc
+- 17:00 cahos dans la ville où la police cherche d'autres bombes. 
+- 17:30 le personnel commence à être libéré.
+
+Beth Israel Deaconess Medical Center [6]
+----------------------------------------
+
+- engin explosif de petirte taille et bas situé explique le nombre de blessure des membres inférieurs.
+- pas de programme opératoire car CA lié au patriot day
+- reçoivent 24 patients, les graves sont reroutés immédiatement au bloc
+- 7 UA délabrement des MI et choc hémorragique
+- triage aux urgences avec marquage sur le thorax
+- ouvrent un service spécifique plaçé sous l'autorité d'un trauma surgeon. Reste en place 2 semaines.
+- nombreuses reprises chirurgicales du fait de plaies massivement contaminées: 5.6 (1 à 14)
+- aucune lésions abdomonales ou thoraciques.
+- pour faire face à un afflux massif, 4 stratégies peuvent être combinées:
+
+#### optimiser l'allocation des ressources
+- évacuation rapide des blessés et des personnes présentes dans la zone de danger
+- allocation des ressources équitable, honnête et transparente permettant de réduire les pertes humaines
+
+#### augmenter les resssources existantes
+- limiter le surtriage qui augmente la mortalité en embolosant les structures d'urgence.
+- réduire le sous triage
+
+#### Utiliser des protocoles de soins standards en période de crise
+- méthode SALT
+- sorties accélérées
+- déprogrammation
+
+#### diminuer la demande de soins non urgents
