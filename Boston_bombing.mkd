@@ -8,16 +8,23 @@ Créer un dépot git et github
 
 Je veux créer un dossier Boston qui npuisse être partagé sur github:
 1. création d'un dossier "Boston" sur github avec un fichier *readme* à l'adresse **https://github.com/jcrb/Boston**
+
 2. création d'un dossier vide à l'adresse **~/Documents/Boston**
+
 3. passage en mode console et ~$ cd ~/Documents/Boston
+
 4. création d'un dépot git:
 	- git init
 	- git add .
+
 5. Ajout de l'adresse du dépot distant github:
 	- git remote add origin https://github.com/jcrb/Boston
+
 6. Lier les deux dépots et transférer le fichier readme depuis github:
 	- git pull origin master
+
 7. Créer le fichier de travail local **Boston_bombing.mkd** avec *Retex*.
+
 8. Ajouter ce fichier au dépot local et synchroniser:
 	- git add Boston_bombing.mkd
 	- git commit -m 'first'
