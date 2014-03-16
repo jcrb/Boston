@@ -60,6 +60,10 @@ Hôpitaux impliqués
 - Massachusetts General Hospital [3] and Harvard Medical School (The main MGH campus is located at 55 Fruit Street in Boston, Massachusetts)[MGH](http://en.wikipedia.org/wiki/Massachusetts_General_Hospital)
 - Beth Israel Deaconess Medical Center [6] 330 Brookline Avenue, Boston, MA 02215 
 
+Plan
+----
+http://www.openstreetmap.org/#map=15/42.3550/-71.0859
+
 Images
 ------
 http://www.theatlantic.com/infocus/2013/04/photos-of-the-boston-marathon-bombing/100495/
