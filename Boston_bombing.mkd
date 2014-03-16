@@ -56,9 +56,13 @@ Topo
 Hôpitaux impliqués
 ------------------
 
-- Brigham and Womens's Hospital[1]  
-- Massachusetts General Hospital [3] and Harvard Medical School
-- Beth Israel Deaconess Medical Center [6]
+- Brigham and Womens's Hospital[1]  45 Francis Street, Boston, MA
+- Massachusetts General Hospital [3] and Harvard Medical School (The main MGH campus is located at 55 Fruit Street in Boston, Massachusetts)[MGH](http://en.wikipedia.org/wiki/Massachusetts_General_Hospital)
+- Beth Israel Deaconess Medical Center [6] 330 Brookline Avenue, Boston, MA 02215 
+
+Images
+------
+http://www.theatlantic.com/infocus/2013/04/photos-of-the-boston-marathon-bombing/100495/
 
 Situation initiale [1]
 -------------------
@@ -71,18 +75,30 @@ Situation initiale [1]
 - [Marathon de Boston](http://fr.wikipedia.org/wiki/Marathon_de_Boston)
 - [Boston](http://fr.wikipedia.org/wiki/Boston): 650.000 habitants (2010), Boston Metro (4M5)
 - 5 TCL1 adultes et 3 pédiatriques
-- 3 morts et 270 blessés (ramenés à 264)dont 20 UA (7.5%).[16]
+- 3 morts et 270 blessés (ramenés à 264)dont 20 UA (7.5%).[16] mortalité initiale 1% [19]
 - T+90 mn la totalité des victimes sont évacuées
 - Tous les blessé ont été évacués en 45 mn [16]
+- la répartition des UA a été faite de telle manière qu'un nombre équivalent et gérable de victimes a été attribué à chaque TC [19]
 
-Brigham and Womens's Hospital[1]
+Brigham and Womens's Hospital[1][19]
+------------------------------------
 
 - 39 blessés dont 23 à T+60 (1 victime toute les 3 minutes)
+    - 5 UA
+    - 1 er blessé à T + 18 (fracture ouverte de la cheville, polycriblage, choc hypovolémique, sous AVK)
+    - 19 blessés dans les 30 mn qui suivent
 	- 15 hospitalisés
 	- 9 opérés
 - blessés graves
 	- lésions pénétrantes de la tête et du cou
 	- lésions de blast hémorragiques
+	- traitement de base: IOT, transfusion massive, Acide tranexamique.
+- la radiologie a posé plusieurs pb [22]
+    - encombrement des salles
+    - impossibilité de lier un examen à un patient (pas d'identité)
+    - echographie joue un rôle clé. Necessité de disposer d'appareils mobiles fonctionnant sur batterie
+    - CR d'écho rédigés manuellement et scotché sur brancard
+    
 - les 3 patients décédés ont été tués sur le coup et aucun des blessés ne décèdera. Ce résultat étonnant au regard de la sévérité des lésions s'explique par:
 - une intervention immédiate des secours sur place constitués massivement par du personnel hospitalier notemment des urgences (bénévoles)
 - l'application de méthodes rapides de triage
@@ -91,10 +107,12 @@ Brigham and Womens's Hospital[1]
 - la préparation des équipes soignantes
 
 Préparation
+------------
 
 - elle a commencé dans les mois qui ont suivis le 11/9
 - formation d'un groupe de travail constitué par la ville de Boston, les EMS et 14 établissements hospitaliers. Premier exercice simulant l'explosion d'une bombe sale dans un avion est organisé dès novembre 2002 (Opération Prometheus)
 - l'établissement reçoit 72 blessés dont 12 nécesitent une décontamination
+- 2008 et 2009 organise 2 symposium sur la préparation à un attentat teroriste (Londres, Madrid, Mumbai, Israel).
 - de 2006 à 2012 cet établissement a oganisé ou participé à 
 	- 73 exercices, évènements ou activation du plan catastrophe (opération falcon simulant un attentat à la bombe)
 	- 623 test de procédure durgence interne (communications, rappel de personnel, pannes de fluides ou d'énergie
@@ -107,11 +125,14 @@ En plus de cette préparation, un certain nombre de coincidences ont jouées un 
 
 - les explosions se sont produites dans une zone où la concentration d'équipes médicales était la plus importante et très bien équipées. Ce marathon génère en moyenne plus de 1000 patients allant des ampules à l'ACR en passant par des deshydratation massives, coup de chaleur, etc.en 6 heures [16]
 - un parc d'ambulance important était présent
+- les explosions ont eu lieu en plein air [19]
+- pas eu d'atteinte structurales [19]
 - les SU du secteur augmentent le personnel présent en prévision d'un afflus de patients
 - en pratique la première étape d'un plan d'urgence (moyens humains et matériels + zone de tri étainent en place.
 - la zone est proche des TC du secteur (carte)
 - L'heure de l'explosion correspond à celle des relèves hospitalières. Le double du personnel normal était présent
 - le PAtriot day est habituellement férié et les programmes opératoires allégés ce jour là mais les chirurgiens de traumato étaient presque tous présents. En quelques mnutes ils ont pu ouvrir 7 salles d'opération.
+- des témoins qui ne fuient pas la scène malgré 2 explosions et qui appliquent efficacement des gestes de premiers secours. Leur rôle a été déterminant. L'articulation entre les secours et les témoins devrait être reconsidéré (gestes de premiers secoiurs, aide bénévole, réseaux sociaux)à l'heure où les budgets alloués aux secours diminuent. C'est particulièrement vrai dans les catastrophes de masse.
 
 MGH [3]
 ===
@@ -128,9 +149,10 @@ MGH [5]
 - 907 lits, 61 OR, 150 patients/j (36.000 patients/an)
 - OR réparties sur 3 niveaux dans 5 batiments, 486 paramédicaux
 - les communications se font par tel.cellulaires institutionnels ou personnels
-- 51 OR en foctionnement depuis 8H du matin et 40 au moment de l'attentat
+- 51 OR en fonctionnement depuis 8H du matin et 40 au moment de l'attentat
 - vers 15 heures le personnel est alerté par les média sociaux
-- T + 10: EMS confirme attentat
+- T0: 14h50
+- T + 10: EMS confirme attentat. Les services de sécurité interne des hôpitaux verouillent les accès (lock down) et activent l'unité de décontamination fixe [18]
 - T + 13: l'ENS (Emergency notification system) est activé. Les OR Leader demandent au personnel relevé de ne pas quitter leur poste et commencent un recensement des moyens. Pas d'informations sur le nombre des impliqués et la nature des lésions.
 Le recensement précise:
 	- anesthésistes, chir, Ibode disponible
@@ -138,9 +160,11 @@ Le recensement précise:
 	- OR interventions en cours (32)
 - T + 14: premier blessé arrive au MGH
 - T + 15: la police de Boston active pe plan attentat dont la conséquence immédiate l'interruption de toutes les communications téléphoniques par portables.
+- T + 20: le BEDOC (Régulation des évacuation) signale que les 30 UA sont toutes évacuées du site et dirigées sur les TCL1 du secteur[16]
 - T + 20: au vu des moyens disponibles, le programme opératoire n'est pas suspendu. Le service des urgences fait état d'amputations traumatiques et de blessures par criblage (shrapnel).
 - T + 30: arrivée de la première UA au bloc. 180 personnels sont disponiles contre 80 normalement.
-- T + 50: 6 UA sont arivés au bloc. Un 7ème est en attente.
+- T+45: Tous les blessés sont évacués du site
+- T + 50: 6 UA sont arivés au bloc. Un 7ème est en attente. En moyenne il s'écoule 8 mn entre l'arrivée aux SU et l'arrivée au bloc opératoire [16]
 - Le personnel chargé de la gestion du matériel et la stérilisation centrale jouent un rôle clé dans la disponibilité du matériel d'ortho-traumato.
 - le personnel présent a été fortement mis à contribution pour récupérer les produits sanguins, identifier les patients, chercher du matéiel.
 - 16:30 dernier patient admis au bloc
@@ -150,7 +174,7 @@ Le recensement précise:
 Beth Israel Deaconess Medical Center [6]
 ----------------------------------------
 
-- engin explosif de petirte taille et bas situé explique le nombre de blessure des membres inférieurs.
+- engin explosif de petite taille et bas situé explique le nombre de blessure des membres inférieurs.
 - pas de programme opératoire car CA lié au patriot day
 - reçoivent 24 patients, les graves sont reroutés immédiatement au bloc
 - 7 UA délabrement des MI et choc hémorragique
@@ -174,3 +198,17 @@ Beth Israel Deaconess Medical Center [6]
 - déprogrammation
 
 #### diminuer la demande de soins non urgents
+
+
+MGH [16]
+--------
+La société d'athlétisme de Boston met en place avec l'association des urgentistes et des cardiologues des postes de secours médicalisés tout le long du parcours afin de limiter le recours aux SU pendant cette période (IDM, hyponatrémie, hyperthermie).
+
+L'expérience de l'Iraq et de l'Afganistan a montré que l'utilisation précoce et massiv e de garrots artériels réduit de façon très imprtanate la mortalité liée aux blast lors des attentats (mortalité évitable de 40 à 50%).
+
+Toutes le évacuations UA (n=30) ont été coordonnées par le Boston EMS Dispatch Operations Center assisté par un médecin.
+
+Au total le MGH reçoit 31 patients en 1 heure. Le plan d'urgence prévoit le transfert immédiat des patients en cours d'évaluation au SU vers les étages ou la suite des soins est assurée par le personnel des services.
+
+
+
